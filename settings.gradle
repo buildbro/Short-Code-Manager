@@ -1,0 +1,2 @@
+rootProject.name='Short Code Manager'
+include ':app'
